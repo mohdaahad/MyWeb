@@ -2754,3 +2754,12 @@ blockquote {
     line-height: 1;
     border: none
 }
+ .post-content {
+    position: relative; 
+    margin-top: -70px;
+    margin-left: 40px;
+     margin-right: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #222;
+}
